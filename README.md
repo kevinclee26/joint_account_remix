@@ -1,4 +1,4 @@
-# joint_account_remix
+# joint_savings_remix
 ![Screenshot](./images/ss_1.png)
 ![Screenshot](./images/ss_2-1.png)
 ![Screenshot](./images/ss_2-2.png)
